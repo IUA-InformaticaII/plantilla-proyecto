@@ -1,6 +1,6 @@
 # Título Proyecto
 
-[Documento de Especificación](docs/Especificacion.md)
+[Documento de Especificación](docs/especificacion.md)
 
 ### Integrantes:
 
