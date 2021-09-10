@@ -4,4 +4,4 @@ project(proyecto-infoII)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(proyecto main.cpp)
-target_link_libraries(testSFML sfml-graphics sfml-audio sfml-system sfml-window)
+target_link_libraries(proyecto sfml-graphics sfml-audio sfml-system sfml-window)
