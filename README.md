@@ -1,5 +1,7 @@
 # Título Proyecto
 
+[Documento de Especificación](docs/Especificacion.md)
+
 ### Integrantes:
 
 ![octocat](https://github.com/octocat.png?size=70) [Octogato](https://github.com/octocat)
